@@ -1,5 +1,6 @@
 <?php
 
-	echo "ola mundo";
+	echo "ola mundo 123333";
 
+	echo "simulação de conflito";
 		?>
